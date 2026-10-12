@@ -8,3 +8,4 @@ Premier dépôt Digital
 ![texte alternatif](images/perplexity-ai-icon.webp)
 
 # Ajout de ma presentation dans le README
+# Mes objectids ce semestre
